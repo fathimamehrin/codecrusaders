@@ -1,0 +1,91 @@
+.skinimg1 img{
+    width: 500px;
+    margin-top: -120px;
+}
+.skinimg1 h1{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: -120px;
+   
+}
+.skinimg1 p{
+    width: 600px;
+    float: right;
+    font-size: larger;
+    margin-right: 300px;
+   
+}
+.button1{
+    float: right;
+    margin-top: -200px;
+    margin-right: 600px;
+    border-radius: 12px;
+    border: none;
+    width: 300px;
+    background-color: rgb(255, 200, 151);
+    height: 40px;
+}
+
+button h2{
+    font-size: medium;
+}
+.skincolour h1{
+    margin-top: 30px;
+}
+   
+
+.skinimg2 img{
+    float: right;
+    width: 300px;
+    height: 400px;
+   margin-top: -250px;
+}
+.skinimg2 h1{
+   margin-top: 200px;
+   margin-left: 780px;
+
+}
+.skinimg2 p{
+    width: 600px;
+    margin-left: 300px;
+    font-size: larger;
+
+    
+}
+.button2{
+    margin-left: 550px;
+    background-color: rgb(255, 200, 151);
+    border-radius: 12px;
+    border: none;
+    width: 300px;
+    height: 40px;
+    
+}
+.skinimg3 img{
+    margin-top: -150px;
+    width: 400px;
+    height: 350px;
+}
+.skinimg3 h1{
+    margin-top: 280px;
+    margin-left: 600px;
+
+}
+.skinimg3 p{
+    float: right;
+    font-size: larger;
+    width: 400px;
+    margin-right: 500px;
+    
+}
+.button3{
+    margin-left: 600px;
+    margin-top: -90px;
+    position: absolute;
+    background-color: rgb(255, 200, 151);
+    border-radius: 12px;
+    border: none;
+    width: 300px;
+    height: 40px;
+
+}
