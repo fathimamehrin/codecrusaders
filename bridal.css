@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #453432;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+section {
+    padding: 2rem;
+}
+
+#intro {
+    background-color: #f9f9f9;
+}
+
+#services {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff4f4;
+}
+
+.service {
+    width: 30%;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    margin: 1rem;
+}
+
+footer {
+    background-color: #795d5a;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
